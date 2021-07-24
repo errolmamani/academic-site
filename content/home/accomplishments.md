@@ -25,29 +25,37 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2018-01-25"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://nlp.stanford.edu/
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  date_start: "2019-04-01"
+  description: Natural Language Processing.
+  organization: NLP  
+  organization_url: https://nlp.stanford.edu/
+  title: NLP stanford
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
+- certificate_url: https://princeton-nlp.github.io/
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: course
+  organization_url: https://princeton-nlp.github.io/
+  title: 'Deep Learning for NLP'
+  url: ""
+- certificate_url: https://ampln.github.io/escuelaverano2021/
+  date_end: "2021-04-21"
+  date_start: "2021-05-01"
+  description: ""
+  organization: camp
+  organization_url: https://ampln.github.io/escuelaverano2021/
+  title: 'NLP summer School'
   url: ""
 
 design:
-  columns: '2' 
+  columns: '2'
 ---
