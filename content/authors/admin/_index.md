@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Errol Mamani
+title: Errol W. Mamani
 
 # Is this the primary user of the site?
 superuser: true
@@ -67,7 +67,7 @@ email: "errol.mamani@ucsp.edu.pe"
 highlight_name: false
 ---
 
-Wilderd is currently Master in Computer Science candidate at Universidad Catolica San Pablo in Arequipa, he is working under the supervision of professor Jose E. Ochoa Luna at Research and Innovation Center in Computer Science labs. As a part of his courses he has participated in many projects and teams which involve advances in computer science topics such as Computer Vision, Mathematics for Computer Science, Computer Graphics, advances Algorithm Analysis. He is actually doing research in Natural Language Processing using the novel Deep learning techniques. One of his main projects involves the massive analysis of social media content in order to identify any kind of aggressive or offensive content with Concytec Peru, on the other side he is working in cooperation with other students from different part of Peru to push up the research not only in text analysis if not in speaker recognition using Machine learning approaches, additionally, he worked in sentiment analysis using DL to retrieval sentiment from social media platforms from the politic or racism content in Peru.Another of his interests is text generation applied to generate local music lyrics usind DL to preserve native language in Peru called "Quechua".He also has actively participated as a speaker in the Peruvian symposiums DL, IISPDL and Latino America meeting in Artificial Intelligence in Latino America Khipu2019 and Latinx AI at NeurISP 2019, TRAC,LREC colocated with ACL conference 2020, Mexican NLP Summer School 2021 colocated with NAACL 2021 conference.
+I am currently Mcs(c) at Universidad Catolica San Pablo in Arequipa, working under the supervision of professor Jose E. Ochoa Luna at Research and Innovation Center in Computer Science labs.I am doing research in the field of Natural Language Processing using the novel Deep learning techniques. One of my main projects involves the massive analysis of social media content to  identify any kind of aggressive or offensive content. I also work in cooperation with other students to push up the research not only in text analysis if not in wide field of Natural language processing, Computer Vision, information retrieval from social media. My interests are focus on: text generation, speaker recognition, optical character recognition,sentiment analysis.I also has actively participated as a speaker in the Peruvian symposiums DL, IISPDL and Latino America meeting in Artificial Intelligence in Latino America Khipu2019 and Latinx AI at NeurISP 2019, TRAC,LREC colocated with ACL conference 2020, Mexican NLP Summer School 2021 colocated with NAACL 2021 conference.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Professional_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -13,9 +13,9 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+# Speaker Identification a Comparativy study
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+[Errol Mamani](errolmamani.netlify.app/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
 
 ---
 

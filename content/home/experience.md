@@ -36,7 +36,7 @@ experience:
         * Modelling
         * Experiment
 
-  - title: Professor of Math
+  - title: Teaching Assistant
     company: UNSAAC University
     company_url: ''
     company_logo: org-x

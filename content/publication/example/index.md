@@ -1,23 +1,23 @@
 ---
-title: "An example conference paper"
+title: "speaker identification using cepstral coefficients codebooks at Mel frequencies and hidden Markov models"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Dennis Auccapuma
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2016"
+doi: "20.500.12918/2466"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2016"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,10 +29,12 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 
+
+  Speech is a complicated type of product signal the outcome of a series of transforma-tions occurring at diﬀerent levels; semantic, linguistic and acoustics. Then these transfor-mations lead to diﬀerences in the characteristics of a speaker widely studied by Biometrics.The speaker identiﬁcation (indentify who is the person which claimed the voice) in sum-mary, is a detailed analysis of the unique characteristics speech of the speaker. In thiscontext, this project focuses on the speaker identiﬁcation with single words using HiddenMarkov Model (HMM) and the parameters in the feature extractions and the size of thecodebooks is restimated to increase eﬀectiveness of identiﬁcation of a speaker,those pro-cesses are described in three steps; cature extraction, data modeling and identiﬁcation,detailing in each step the theory and implementation in Java. Starting voice processing forthe most important features of an speaker Mel Frequency Cepstral Coﬃcients (MFCC) isused, because this tecnique give the best results in the Cepstral analysis by recent researchin this ﬁeld; Vector quantization (VQ) is made to clustering data by the classiﬁcation algo-rithm K-means, which substantially improves the processing time. For the modeling datathe HMM is assuming the statistical model as a Markov process,the HMMs are trained togenerate the sequence of observations (symbols observation), then the Viterbi algorithmﬁnd the sequence of states which has the most likelihood probability. In addition the pa-rameter modules of pre-processing,feature extraction and vector quantization with vectorcodebooks are restimated to suggest the size more suitable to the codebook and increasethe identiﬁcation. Finally, our experimental results show in details the parameters withwe get best results with a 90% of accuracy for a small closed group of 5 people in realconditions (background noise) with a decreasing trend as group the number of populationincreases and greater eﬀectiveness in ideal conditions (closed without background noiseenvironment).
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: SR,MFCC,HMM-VQ,k-means.
 
 tags: []
 
@@ -44,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.academia.edu/38921767/IDENTIFICACI%C3%93N_DE_LOCUTOR_USANDO_CODEBOOKS_DE_COEFICIENTES_CEPSTRALES_EN_LAS_FRECUENCIAS_DE_MEL_Y_MODELOS_OCULTOS_DE_MARKOV_a_dependent_speaker_identification_using_VQ_and_HMM_'
 url_code: ''
 url_dataset: ''
 url_poster: ''
